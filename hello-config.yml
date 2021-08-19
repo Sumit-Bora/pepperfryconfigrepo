@@ -6,7 +6,5 @@ spring:
       server:
         git:
           uri: https://github.com/Sumit-Bora/Complete-Microservice.git
-          
-
 server:
   port: 8888
