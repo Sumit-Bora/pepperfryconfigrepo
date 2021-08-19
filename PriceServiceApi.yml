@@ -1,0 +1,12 @@
+spring:
+  application:
+    name: CloundConfigServer
+  cloud:
+    config:
+      server:
+        git:
+          uri: https://github.com/Sumit-Bora/Complete-Microservice.git
+          
+
+server:
+  port: 8888
